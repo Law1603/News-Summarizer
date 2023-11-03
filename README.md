@@ -11,7 +11,7 @@ This Python application provides a simple GUI to summarize news articles. Users 
 - Displays article title, author(s), publication date, and summary.
 - Sentiment analysis of the article's text.
 
-  ##Example 
+ 
   ![image](https://github.com/Law1603/News-Summarizer/assets/78369461/21dae09b-4842-4ec6-a7ea-5962318a5795)
 
 
